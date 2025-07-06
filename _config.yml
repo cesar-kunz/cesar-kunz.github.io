@@ -1,5 +1,6 @@
 title: "César Kunz"
 description: "Formal Methods, Verified Compilers, and Secure Systems"
 baseurl: ""
-url: ""
-theme: minima
+url: "https://cesar-kunz.github.io"
+# theme: minima
+remote-theme: sighingnow/jekyll-gitbook
