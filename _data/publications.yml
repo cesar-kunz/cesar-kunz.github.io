@@ -1,0 +1,114 @@
+- link: https://dblp.org/rec/journals/jlp/BartheCK16
+  title: Product programs and relational program logics.
+  venue: J. Log. Algebraic Methods Program.
+  year: '2016'
+- link: https://dblp.org/rec/conf/fm/BeckerCGHHKNSTT16
+  title: Combining Mechanized Proofs and Model-Based Testing in the Formal Analysis
+    of a Hypervisor.
+  venue: FM
+  year: '2016'
+- link: https://dblp.org/rec/conf/csfw/BartheGAHKS14
+  title: Proving Differential Privacy in Hoare Logic.
+  venue: CSF
+  year: '2014'
+- link: https://dblp.org/rec/journals/corr/BartheGAHKS14
+  title: Proving differential privacy in Hoare logic.
+  venue: CoRR
+  year: '2014'
+- link: https://dblp.org/rec/conf/ccs/BartheCGKLSB13
+  title: Fully automated analysis of padding-based encryption in the computational
+    model.
+  venue: CCS
+  year: '2013'
+- link: https://dblp.org/rec/conf/csfw/BartheDGKB13
+  title: Verified Computational Differential Privacy with Applications to Smart Metering.
+  venue: CSF
+  year: '2013'
+- link: https://dblp.org/rec/conf/fosad/BartheDGKSS13
+  title: 'EasyCrypt: A Tutorial.'
+  venue: FOSAD
+  year: '2013'
+- link: https://dblp.org/rec/conf/lfcs/BartheCK13
+  title: 'Beyond 2-Safety: Asymmetric Product Programs for Relational Program Verification.'
+  venue: LFCS
+  year: '2013'
+- link: https://dblp.org/rec/conf/ppopp/BartheCKGM13
+  title: From relational verification to SIMD loop synthesis.
+  venue: PPoPP
+  year: '2013'
+- link: https://dblp.org/rec/conf/cpp/BartheGKLB12
+  title: 'Automation in Computer-Aided Cryptography: Proofs, Attacks and Designs.'
+  venue: CPP
+  year: '2012'
+- link: https://dblp.org/rec/conf/csfw/BackesBBGKSB12
+  title: Verified Security of Merkle-Damgård.
+  venue: CSF
+  year: '2012'
+- link: https://dblp.org/rec/conf/itp/BartheCGKB12
+  title: Computer-Aided Cryptographic Proofs.
+  venue: ITP
+  year: '2012'
+- link: https://dblp.org/rec/journals/iacr/BartheCGKLB12
+  title: Automated Analysis and Synthesis of Padding-Based Encryption Schemes.
+  venue: IACR Cryptol. ePrint Arch.
+  year: '2012'
+- link: https://dblp.org/rec/journals/toplas/BartheK11
+  title: An Abstract Model of Certificate Translation.
+  venue: ACM Trans. Program. Lang. Syst.
+  year: '2011'
+- link: https://dblp.org/rec/conf/fm/BartheCK11
+  title: Relational Verification Using Product Programs.
+  venue: FM
+  year: '2011'
+- link: https://dblp.org/rec/conf/sefm/CrespoK11
+  title: A Machine-Checked Framework for Relational Separation Logic.
+  venue: SEFM
+  year: '2011'
+- link: https://dblp.org/rec/conf/flops/BartheBK10
+  title: A Functional Framework for Result Checking.
+  venue: FLOPS
+  year: '2010'
+- link: https://dblp.org/rec/conf/tgc/BartheK10
+  title: Perspectives in Certificate Translation.
+  venue: TGC
+  year: '2010'
+- link: https://dblp.org/rec/conf/tgc/Kunz10
+  title: Certificate Translation for the Verification of Concurrent Programs.
+  venue: TGC
+  year: '2010'
+- link: https://dblp.org/rec/journals/toplas/BartheGKR09
+  title: Certificate translation for optimizing compilers.
+  venue: ACM Trans. Program. Lang. Syst.
+  year: '2009'
+- link: https://dblp.org/rec/conf/icfem/BartheGHKP09
+  title: Implementing a Direct Method for Certificate Translation.
+  venue: ICFEM
+  year: '2009'
+- link: https://dblp.org/rec/conf/lopstr/ScandoloKH09
+  title: Program Parallelization Using Synchronized Pipelining.
+  venue: LOPSTR
+  year: '2009'
+- link: https://dblp.org/rec/conf/aplas/BartheKS08
+  title: Certified Reasoning in Memory Hierarchies.
+  venue: APLAS
+  year: '2008'
+- link: https://dblp.org/rec/conf/esop/BartheK08
+  title: Certificate Translation in Abstract Interpretation.
+  venue: ESOP
+  year: '2008'
+- link: https://dblp.org/rec/conf/foal/BartheK08
+  title: Certificate translation for specification-preserving advices.
+  venue: FOAL
+  year: '2008'
+- link: https://dblp.org/rec/conf/fosad/BartheK08
+  title: An Introduction to Certificate Translation.
+  venue: FOSAD
+  year: '2008'
+- link: https://dblp.org/rec/conf/sefm/BartheKPS08
+  title: Preservation of Proof Pbligations for Hybrid Verification Methods.
+  venue: SEFM
+  year: '2008'
+- link: https://dblp.org/rec/conf/sas/BartheGKR06
+  title: Certificate Translation for Optimizing Compilers.
+  venue: SAS
+  year: '2006'
