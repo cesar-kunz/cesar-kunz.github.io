@@ -3,4 +3,4 @@ layout: default
 title: Contact
 ---
 
-To collaborate or connect, please email: your_email@example.com
+To collaborate or connect, you should know how to reach me.
